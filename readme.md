@@ -59,4 +59,5 @@ import matplotlib.pyplot as plt
 Addison Howard, Ashley Chow, and Ryan Holbrook. Spaceship Titanic. https://kaggle.com/competitions/spaceship-titanic, 2022. Kaggle.
 
 ### Clone this repo
+```bash
 git clone https://github.com/GHeart01/SpaceShip-Titanic-Supervised-ML-Project.git
