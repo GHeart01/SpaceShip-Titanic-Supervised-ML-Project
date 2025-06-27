@@ -4,7 +4,7 @@ Here I am using the "Spaceship Titanic" data from an ongoing Kaggle competition 
 This project includes 3 deliverables: 
 * This Juypter notebook - including: problem Decription, EDA procedure, Analysis (model building and training), Result, and Discussion
 * A video presentation available on Youtube - Explaining what problem we solved, my ML approach and method, and Final Result
-    * https://www.youtube.com/watch?v=lb9QgvX08_Q
+    * https://youtu.be/kR7RFkoWamU
 * and a public github repository - https://github.com/GHeart01/SpaceShip-Titanic-Supervised-ML-Project
 
 #### Table of Contents
